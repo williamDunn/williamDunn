@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @williamDunn
-- 👀 I’m interested in Java, golf, & stocks (if it's a green week)
-- 🌱 I’m currently learning React & Python
+- 👀 Interested in all things Java, golf, & stocks
 - 📫 Reach me at willgarydunn@gmail.com or https://willdunn.dev
 
 <!---
