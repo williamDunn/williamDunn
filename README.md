@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @williamDunn
-- 👀 Interested in all things Java, golf, & stocks
 - 📫 Reach me at willgarydunn@gmail.com or https://willdunn.dev
 
 <!---
