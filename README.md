@@ -33,10 +33,4 @@ I enjoy solving tough infrastructure challenges, writing clean automation, and l
 
 ---
 
-## 📌 Projects
-
-- [Personal Website](https://willdunn.dev) – My online portfolio and CV
-
----
-
 _Thanks for visiting my profile! Feel free to connect or reach out._
