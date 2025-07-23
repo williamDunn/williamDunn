@@ -33,4 +33,4 @@ I enjoy solving tough infrastructure challenges, writing clean automation, and l
 
 ---
 
-_Thanks for visiting my profile! Feel free to connect or reach out._
+_Feel free to connect or reach out._
